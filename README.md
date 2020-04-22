@@ -1,0 +1,1 @@
+# NextJS Static Blog Example
